@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="6.1504489"
-     inkscape:cx="9.2676162"
-     inkscape:cy="9.5927957"
+     inkscape:cx="7.3165391"
+     inkscape:cy="13.49495"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -79,6 +79,19 @@
          offset="1"
          id="stop19651" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter23103"
+       x="-0.036808369"
+       y="-0.70238648"
+       width="1.0736167"
+       height="2.404773">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.17745116"
+         id="feGaussianBlur23105" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -104,8 +117,16 @@
          y="96.123093" />
     </g>
     <rect
-       style="fill:#050505;fill-opacity:1;stroke-width:0.159809;stroke-linejoin:round;stroke-miterlimit:5.6"
+       style="fill:#800000;fill-opacity:1;stroke-width:0.159809;stroke-linejoin:round;stroke-miterlimit:5.6"
        id="rect19567"
+       width="11.570271"
+       height="0.60633683"
+       x="54.448223"
+       y="-9.6134396"
+       ry="0.22509106" />
+    <rect
+       style="mix-blend-mode:normal;fill:#ff3333;fill-opacity:0.450091;stroke-width:0.159809;stroke-linejoin:round;stroke-miterlimit:5.6;filter:url(#filter23103)"
+       id="rect22738"
        width="11.570271"
        height="0.60633683"
        x="54.448223"
